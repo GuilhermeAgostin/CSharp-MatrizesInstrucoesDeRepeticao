@@ -33,6 +33,8 @@ int[,] array = new int[4, 2];
 
 ### Instruções de repetição
 
+As estruturas de repetição são usadas para controlar a execução de códigos repetidamente até que uma condição seja verdadeira. 
+
 * A instrução *for* executa uma instrução ou um bloco de instruções enquanto uma expressão booliana especificada é avaliada como *true*.
 Em qualquer ponto dentro do bloco de instrução *for*, você pode sair do loop usando a instrução *break* ou seguir para a próxima iteração no loop usando a instrução *continue*. Você também pode sair de um for loop pelas instruções *goto*, *Return* ou *throw* .
 Exemplo de instrução com seções definidas: 
