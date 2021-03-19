@@ -1,4 +1,3 @@
-# C#
 # Matrizes e instruções de repetição 
 
 ### Matrizes
